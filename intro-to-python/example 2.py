@@ -1,2 +1,0 @@
-print ("today is tuesday")
-
